@@ -6,7 +6,6 @@ Save this content in a file named `README.md` in your project directory. Here's 
 
 Alternatively, you can create the file from the command line:
 
-```bash
 echo "# Sentiment Analysis with Logistic Regression
 
 This project demonstrates a sentiment analysis model using Logistic Regression on the IMDB movie reviews dataset. The model is trained to classify reviews as positive or negative. The script includes advanced text preprocessing techniques such as handling negations and lemmatization.
@@ -112,4 +111,4 @@ This project is licensed under the MIT License.
 - [NLTK](https://www.nltk.org/)
 - [scikit-learn](https://scikit-learn.org/)
 " > README.md
-```
+
